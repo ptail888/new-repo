@@ -1,3 +1,2 @@
-hii this is devops batch
-by all
-new file coming
+echo "hii this is devops class"
+git --version
